@@ -1,6 +1,5 @@
 import { Location } from '../types/location';
 
-// Convert all the raw data to properly formatted Location objects
 export const allLocations: Location[] = [
   { id: 'Depot', type: 'Depot', latitude: 41.019734, longitude: 28.81971 },
   { id: 'Customer 1', type: 'Customer', latitude: 41.02602, longitude: 28.82905 },
